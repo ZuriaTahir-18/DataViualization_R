@@ -1,4 +1,5 @@
 #Data
+library(treemap)
 dataset = read.csv("Countries.csv")
 View(dataset)
 library(magrittr)
